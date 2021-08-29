@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$
+  <span>wdnmd!</span>
   </body>
 </html>
